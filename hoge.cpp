@@ -1,5 +1,7 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 int hoge(){
-	cout << "hoge" << endl;
+	while(true){
+		malloc(1);
+	}
 }
